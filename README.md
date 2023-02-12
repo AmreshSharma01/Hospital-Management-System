@@ -1,6 +1,6 @@
 # Hospital Patient Management System
 
-A web based Hospital Patient Record Management System project.
+A Web based Hospital Patient Record Management System project.
 
 ## Hospital Patient Management System - Supports most of the standard HIMS functionalities:
 
@@ -8,8 +8,8 @@ A web based Hospital Patient Record Management System project.
 - Patient Appointment
 - Doctor Prescription
 - Billing
--
--
+
+
 - Patient Login
 - Doctor Login
 - Employee Login
